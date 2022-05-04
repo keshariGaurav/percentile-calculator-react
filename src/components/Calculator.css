@@ -1,0 +1,31 @@
+.container{
+  background-color: #F8ECD1;
+  margin:0 auto;
+  width:80%;
+}
+.div__btn{
+  margin:20px;
+  margin-left: 0;
+}
+.btn__clear{
+  margin-right:200px;
+}
+.btn{
+  background-color:#85586F;
+  color:white;
+  padding:10px;
+  font-size:20px;
+  border-radius: 15%;
+  border:none;
+  cursor: pointer;
+}
+.output__screen{
+  background-color: white;
+  height:100px;
+  width:300px;
+  padding:10px;
+  margin:0 auto;
+}
+h1,h2,p,h3{
+  color:#85586F;
+}
