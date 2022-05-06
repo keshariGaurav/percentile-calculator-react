@@ -29,3 +29,19 @@
 h1,h2,p,h3{
   color:#85586F;
 }
+.checkbox{
+  display: block;
+  margin-top:10px;
+}
+.step__percentile{
+  text-align: left;
+}
+.step__table{
+  border:1px solid #85586F;
+  padding:5px;
+}
+td,th{
+  border:1px solid #85586F;
+  padding:5px;
+  color:#85586F;
+}
